@@ -1,0 +1,85 @@
+{
+    "filme_referencia": {
+        "id": 550,
+        "titulo": "Clube da Luta",
+        "ano": "1999"
+    },
+    "recomendacoes": [
+        {
+            "id": 2649,
+            "titulo": "Vidas em Jogo",
+            "titulo_original": "The Game",
+            "ano": "1997",
+            "generos": [
+                "Drama",
+                "Thriller",
+                "Mistério"
+            ],
+            "sinopse": "Nicholas Van Orton é um banqueiro bem-sucedido que se mantém discreto. Quando seu irmão distante Conrad retorna para seu aniversário, traz para Nicholas um presente estranho: uma participação em um jogo da vida real. Inicialmente inofensivo, o jogo fica cada vez mais pessoal e Nicholas começa a temer por sua vida quando ele escapa de agentes organizadores do jogo misterioso. Sem ninguém em quem confiar, o banqueiro tem que encontrar respostas por si mesmo.",
+            "popularidade": 29.158,
+            "avaliacao": 7.566,
+            "poster": "https://image.tmdb.org/t/p/w500/vsdWfwqsiCqLuZJjMBIQP1Oa7Qn.jpg",
+            "pontuacao_similaridade": 68.0
+        },
+        {
+            "id": 73,
+            "titulo": "A Outra História Americana",
+            "titulo_original": "American History X",
+            "ano": "1998",
+            "generos": [
+                "Drama"
+            ],
+            "sinopse": "Derek busca vazão para suas agruras tornando-se líder de uma gangue de racistas. A violência o leva a um assassinato, e ele é condenado pelo crime. Três anos mais tarde, ele sai da prisão e tem que convencer seu irmão, que está prestes a assumir a liderança do grupo, a não trilhar o mesmo caminho.",
+            "popularidade": 34.082,
+            "avaliacao": 8.34,
+            "poster": "https://image.tmdb.org/t/p/w500/awlLBINV2ptoHkzeG20mIanlWqh.jpg",
+            "pontuacao_similaridade": 53.44
+        },
+        {
+            "id": 13,
+            "titulo": "Forrest Gump: O Contador de Histórias",
+            "titulo_original": "Forrest Gump",
+            "ano": "1994",
+            "generos": [
+                "Comédia",
+                "Drama",
+                "Romance"
+            ],
+            "sinopse": "Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.",
+            "popularidade": 100.146,
+            "avaliacao": 8.468,
+            "poster": "https://image.tmdb.org/t/p/w500/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+            "pontuacao_similaridade": 52.05
+        },
+        {
+            "id": 278,
+            "titulo": "Um Sonho de Liberdade",
+            "titulo_original": "The Shawshank Redemption",
+            "ano": "1994",
+            "generos": [
+                "Drama",
+                "Crime"
+            ],
+            "sinopse": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
+            "popularidade": 181.597,
+            "avaliacao": 8.708,
+            "poster": "https://image.tmdb.org/t/p/w500/xSnM4ahmz692msbMTBsfBWHvR3M.jpg",
+            "pontuacao_similaridade": 49.81
+        },
+        {
+            "id": 598,
+            "titulo": "Cidade de Deus",
+            "titulo_original": "Cidade de Deus",
+            "ano": "2002",
+            "generos": [
+                "Drama",
+                "Crime"
+            ],
+            "sinopse": "Buscapé é um jovem morador da Cidade de Deus que cresce em meio à violência. Com medo de se tornar um bandido, enxerga na fotografia uma oportunidade de ter uma vida digna.",
+            "popularidade": 46.187,
+            "avaliacao": 8.426,
+            "poster": "https://image.tmdb.org/t/p/w500/gfnXixcGC060QcG6JPxN6AMdVsq.jpg",
+            "pontuacao_similaridade": 48.65
+        }
+    ]
+}

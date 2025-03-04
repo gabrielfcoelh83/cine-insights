@@ -1,0 +1,102 @@
+{
+    "filmes_analisados": [
+        {
+            "id": 550,
+            "titulo": "Clube da Luta",
+            "ano": "1999",
+            "bilheteria": 100853753
+        },
+        {
+            "id": 299536,
+            "titulo": "Vingadores: Guerra Infinita",
+            "ano": "2018",
+            "bilheteria": 2052415039
+        },
+        {
+            "id": 24428,
+            "titulo": "Os Vingadores: The Avengers",
+            "ano": "2012",
+            "bilheteria": 1518815515
+        },
+        {
+            "id": 99861,
+            "titulo": "Vingadores: Era de Ultron",
+            "ano": "2015",
+            "bilheteria": 1405403694
+        },
+        {
+            "id": 157336,
+            "titulo": "Interestelar",
+            "ano": "2014",
+            "bilheteria": 746606706
+        }
+    ],
+    "participacao_atores": {
+        "Robert Downey Jr.": 3,
+        "Chris Evans": 3,
+        "Chris Hemsworth": 3,
+        "Mark Ruffalo": 3,
+        "Scarlett Johansson": 3,
+        "Don Cheadle": 2,
+        "Jeremy Renner": 2,
+        "Edward Norton": 1,
+        "Brad Pitt": 1,
+        "Helena Bonham Carter": 1,
+        "Meat Loaf": 1,
+        "Jared Leto": 1,
+        "Zach Grenier": 1,
+        "Holt McCallany": 1,
+        "Eion Bailey": 1,
+        "Richmond Arquette": 1,
+        "David Andrews": 1,
+        "Josh Brolin": 1,
+        "Benedict Cumberbatch": 1,
+        "Tom Holland": 1,
+        "Chadwick Boseman": 1,
+        "Tom Hiddleston": 1,
+        "Clark Gregg": 1,
+        "Cobie Smulders": 1,
+        "Stellan Skarsgård": 1,
+        "James Spader": 1,
+        "Samuel L. Jackson": 1,
+        "Aaron Taylor-Johnson": 1,
+        "Matthew McConaughey": 1,
+        "Anne Hathaway": 1,
+        "Michael Caine": 1,
+        "Jessica Chastain": 1,
+        "Casey Affleck": 1,
+        "Wes Bentley": 1,
+        "Topher Grace": 1,
+        "Mackenzie Foy": 1,
+        "Ellen Burstyn": 1,
+        "John Lithgow": 1
+    },
+    "frequencia_generos": {
+        "Aventura": 4,
+        "Ficção científica": 4,
+        "Ação": 3,
+        "Drama": 2
+    },
+    "top_atores_bilheteria": [
+        {
+            "ator": "Robert Downey Jr.",
+            "bilheteria_total": 4976634248
+        },
+        {
+            "ator": "Chris Evans",
+            "bilheteria_total": 4976634248
+        },
+        {
+            "ator": "Chris Hemsworth",
+            "bilheteria_total": 4976634248
+        },
+        {
+            "ator": "Mark Ruffalo",
+            "bilheteria_total": 4976634248
+        },
+        {
+            "ator": "Scarlett Johansson",
+            "bilheteria_total": 4976634248
+        }
+    ]
+}
